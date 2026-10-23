@@ -20,7 +20,7 @@ from datetime import datetime
 import streamlit as st
 from groq import Groq
 
-   MODEL = "openai/gpt-oss-120b"
+MODEL = "openai/gpt-oss-120b"
 
 
 # ---------------------------------------------------------------------------
